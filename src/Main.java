@@ -15,5 +15,9 @@ public class Main {
         programmer1.work();
         System.out.println(programmer1.getPosition());
         programmer1.work();
+        System.out.println(programmer1.getPosition());
+        programmer1.work();
+        System.out.println(programmer1.getPosition());
+        programmer1.work();
     }
 }
